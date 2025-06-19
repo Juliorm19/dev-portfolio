@@ -28,7 +28,7 @@ import { RouterLink } from '@angular/router';
           </div>
         </div>
         <div class="col-lg-6 d-none d-lg-block">
-          <img src="assets/images/developer.svg" alt="Developer illustration" class="img-fluid">
+          <img src="assets/images/dev.png" alt="Developer illustration" class="img-fluid">
         </div>
       </section>
     `
